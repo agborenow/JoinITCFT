@@ -26,7 +26,7 @@
         },
 
         "PubSub2CIDR": {
-          "Description": "For Public subnet 2",
+          "Description": "This is for Public subnet 2",
           "Type": "String",
           "Default": "10.0.2.0/24"
       },
